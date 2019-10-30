@@ -1,11 +1,11 @@
 {
-  "name": "TestMod",
+  "name": "GodArmor",
   "version": "0.1.0",
-  "title": "Test Mod",
+  "title": "God Armor",
   "author": "raziel2244",
   "contact": "info@raziel.dev",
   "homepage": "",
   "factorio_version": "0.17",
   "dependencies": ["base >= 0.17"],
-  "description": "This is a test mod"
+  "description": "A mod adding invulnerable armor with a strange power."
 }
