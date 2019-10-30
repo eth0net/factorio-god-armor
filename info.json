@@ -1,0 +1,11 @@
+{
+  "name": "TestMod",
+  "version": "0.1.0",
+  "title": "Test Mod",
+  "author": "raziel2244",
+  "contact": "info@raziel.dev",
+  "homepage": "",
+  "factorio_version": "0.17",
+  "dependencies": ["base >= 0.17"],
+  "description": "This is a test mod"
+}
